@@ -1,0 +1,7 @@
+Notes:
+
+1. The language used to develop the simple API is PHP language with MySQL database.
+2. The database need to be imported into phpMyAdmin server.
+3. The repository also can be accessed through GitHub on link: https://github.com/imieyjr/internshipsample.git
+
+Thanks for your time and consideration
